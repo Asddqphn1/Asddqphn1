@@ -18,6 +18,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Asddqphn1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Asddqphn1/count.svg?"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/Asddqphn1/Asddqphn1/output/snake.svg" alt="Snake animation" />
 
 ###
